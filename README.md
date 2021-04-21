@@ -60,7 +60,4 @@
 <img src="https://profile-counter.glitch.me/bunyaminfil/count.svg" />
 </p>
 
-<div align="left">
-    <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyaminfil&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-    <img alt="bunyaminfil" src="assets/cat.gif"> </img>
-</div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminfil&show_icons=true&theme=radical&locale=en&layout=compact" alt="bunyaminfil" /></img> <img alt="bunyaminfil" src="assets/cat.gif"> </img> </div>
