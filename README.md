@@ -54,9 +54,12 @@
             alt="postman" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 </p><br>
+        
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/bunyaminfil/count.svg" />
+</p>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyaminfil&show_icons=true&theme=radical&locale=en&layout=compact"
-         alt="bunyaminfil" /></img>
     <img alt="bunyaminfil" src="assets/cat.gif"> </img>
 </div>
