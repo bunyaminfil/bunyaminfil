@@ -61,5 +61,6 @@
 </p>
 
 <div align="left">
+    <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyaminfil&hide_title=false&layout=compact&theme=gotham&count_private=true" />
     <img alt="bunyaminfil" src="assets/cat.gif"> </img>
 </div>
