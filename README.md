@@ -30,6 +30,9 @@
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" /> </a> <a
         href="https://www.mongodb.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
+    </a> <a
+        href="https://tailwindcss.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
     </a> <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/html/" l/" target="_blank"> <img
