@@ -1,6 +1,6 @@
 <h1 align="center">Hey, You can call me Benjamin</h1>
 <h3 align="center">I'm a software engineer who is passionate about making open-source more accessible, creating
-    technology to elevate people.Some technologies I enjoy working with include NodeJS, ReactJS, VueJS (JavaScript,
+    technology to elevate people.Some technologies I enjoy working with include mostly NextJS and ReactJS also has some experiences with React Native, NodeJS, VueJS (JavaScript,
     APIs) and MySQL, MongoDB.</h3>
 
 <h3 align="left">Connect with me:</h3>
