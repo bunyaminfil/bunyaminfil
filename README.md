@@ -5,9 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/bunyaminfil" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bunyaminfil" height="30"
-            width="40" /></a>
     <a href="https://linkedin.com/in/bünyamin-fil-137b11149/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bünyamin-fil-137b11149/"
             height="30" width="40" /></a>
