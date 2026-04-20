@@ -49,8 +49,11 @@ I build modern web and mobile applications with a focus on performance, usabilit
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
- 💻 I enjoy working with React & Next.js<br>
- 📱 Also experienced in React Native<br>
- 🔧 Backend experience with Node.js & Express<br>
- 🛢️ Databases: MySQL & MongoDB<br>
+  💻 I enjoy working with React & Next.js<br>
+  📱 Also experienced in React Native<br>
+  🔧 Backend experience with Node.js & Express<br>
+  🛢️ Databases: MySQL & MongoDB<br>
+  ⚙️ CI/CD & Automation: GitHub Actions<br>
+  ☁️ Cloud & Deployment: AWS (S3, EC2), DigitalOcean<br>
+  🚀 Deployment Platforms: Vercel, Netlify, Heroku
 </p>
